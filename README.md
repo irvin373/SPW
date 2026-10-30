@@ -2,6 +2,8 @@
 
 A graphics mod for [SuperMarioWorldRecomp](https://github.com/mstan/SuperMarioWorldRecomp) that turns Super Mario World into **Super Peach World**: Princess Peach replaces Mario, and the on-screen text and title banner follow.
 
+![Super Peach World preview](preview.gif)
+
 > **No game data is included.** You need your own legally obtained Super Mario World (USA) ROM. This repo only contains scripts and a patch, never Nintendo's assets.
 
 ## What changes
